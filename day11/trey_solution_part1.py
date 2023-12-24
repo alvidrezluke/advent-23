@@ -81,3 +81,5 @@ for i in range(len(galaxies)):
         sumOfPaths += distance
 
 print(sumOfPaths)
+print(len(space), len(space[0]), len(space[3]))
+print(len(galaxies), len(galaxyIndexes))
